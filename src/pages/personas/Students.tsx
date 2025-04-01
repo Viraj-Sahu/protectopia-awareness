@@ -1,6 +1,6 @@
 
 import PageLayout from "@/components/PageLayout";
-import { Mail, Shield, AlertTriangle, CheckCircle, Smartphone, Book, CreditCard, ExternalLink } from "lucide-react";
+import { Mail, Shield, AlertTriangle, CheckCircle, Smartphone, Book, CreditCard, ExternalLink, XCircle } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Link } from "react-router-dom";
 
